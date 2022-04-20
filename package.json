@@ -1,7 +1,7 @@
 {
   "name": "react-weather-api",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://xavierfaulkner.github.io/react-weather-api/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
